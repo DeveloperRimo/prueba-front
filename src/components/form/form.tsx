@@ -17,7 +17,8 @@ export function Form() {
   };
 
 	useEffect(() => {
-		console.log(cedula)
+		console.log(cedula);
+		console.log(cedula);
 	},[cedula])
 
   return (
